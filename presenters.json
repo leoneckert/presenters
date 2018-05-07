@@ -1,0 +1,597 @@
+[
+    {
+        "project": "The Act of Receiving", 
+        "person": "Shelley Hu", 
+        "date": "08/05/18 10:00:00 "
+    }, 
+    {
+        "project": "Soundscape: a Tool for Music Makers", 
+        "person": "Dror Ayalon", 
+        "date": "08/05/18 10:12:00 "
+    }, 
+    {
+        "project": "The Masks I Wear", 
+        "person": "Christina Hall", 
+        "date": "08/05/18 10:24:00 "
+    }, 
+    {
+        "project": "Lotus Babe", 
+        "person": "Ye Stanlyn Lu", 
+        "date": "08/05/18 10:36:00 "
+    }, 
+    {
+        "project": "JAM-JAM", 
+        "person": "Amanda Lee", 
+        "date": "08/05/18 10:48:00 "
+    }, 
+    {
+        "project": "Oneiric Lab", 
+        "person": "Paula Leonvendagar", 
+        "date": "08/05/18 11:00:00 "
+    }, 
+    {
+        "project": "Philosophycal / Feel-oh-so-fickle", 
+        "person": "Utsav Chadha", 
+        "date": "08/05/18 11:12:00 "
+    }, 
+    {
+        "project": "Genealogy of a Rhythm", 
+        "person": "Marco Guarino", 
+        "date": "08/05/18 11:24:00 "
+    }, 
+    {
+        "project": "NYC Beats", 
+        "person": "Rushali Paratey", 
+        "date": "08/05/18 11:36:00 "
+    }, 
+    {
+        "project": "Cascade", 
+        "person": "Bryan Hsu", 
+        "date": "08/05/18 11:48:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "LUNCH", 
+        "date": "08/05/18 12:00:00 "
+    }, 
+    {
+        "project": "In Their Steps", 
+        "person": "Jennifer Tis", 
+        "date": "08/05/18 13:00:00 "
+    }, 
+    {
+        "project": "Speakspeare: Theater Speech Recognition", 
+        "person": "Yueping Wang", 
+        "date": "08/05/18 13:12:00 "
+    }, 
+    {
+        "project": "Runway in Store", 
+        "person": "Jingfei Jade Lin", 
+        "date": "08/05/18 13:24:00 "
+    }, 
+    {
+        "project": "The Nude Museum", 
+        "person": "Oriana Neidecker", 
+        "date": "08/05/18 13:36:00 "
+    }, 
+    {
+        "project": "Going Forward", 
+        "person": "Dominic Barrett", 
+        "date": "08/05/18 13:48:00 "
+    }, 
+    {
+        "project": "On Otherness and Queer Affect", 
+        "person": "Chester Dols", 
+        "date": "08/05/18 14:00:00 "
+    }, 
+    {
+        "project": "Bots, Cells, and Humans Watching", 
+        "person": "Sebastian Morales", 
+        "date": "08/05/18 14:12:00 "
+    }, 
+    {
+        "project": "Grand Central Immersion", 
+        "person": "Scott Reitherman", 
+        "date": "08/05/18 14:24:00 "
+    }, 
+    {
+        "project": "Perfect Housewife", 
+        "person": "Yihan Chen", 
+        "date": "08/05/18 14:36:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "BREAK", 
+        "date": "08/05/18 14:48:00 "
+    }, 
+    {
+        "project": "Manifest Energy", 
+        "person": "Jasmine Soltani", 
+        "date": "08/05/18 15:00:00 "
+    }, 
+    {
+        "project": "The Birth of the Self Portrait (1889)", 
+        "person": "Hazel Xitong Xu", 
+        "date": "08/05/18 15:12:00 "
+    }, 
+    {
+        "project": "Basic Ingredients", 
+        "person": "Lindsey Daniels", 
+        "date": "08/05/18 15:24:00 "
+    }, 
+    {
+        "project": "Foodies", 
+        "person": "Luqian Chen", 
+        "date": "08/05/18 15:36:00 "
+    }, 
+    {
+        "project": "Building Emergency Intelligence", 
+        "person": "Chetan Hasabnis", 
+        "date": "08/05/18 15:48:00 "
+    }, 
+    {
+        "project": "Let Me Give Light", 
+        "person": "Yunho Choi", 
+        "date": "08/05/18 16:00:00 "
+    }, 
+    {
+        "project": "Breathe With Me", 
+        "person": "Samantha Schulman", 
+        "date": "08/05/18 16:12:00 "
+    }, 
+    {
+        "project": "Body Lights", 
+        "person": "Elizabeth White", 
+        "date": "08/05/18 16:24:00 "
+    }, 
+    {
+        "project": "The Son's Drawer", 
+        "person": "Dong Chan (DC) Kim", 
+        "date": "08/05/18 16:36:00 "
+    }, 
+    {
+        "project": "Plaza Project: Mapping US public opinion", 
+        "person": "Maxwell (Kenzo) Nakamura", 
+        "date": "09/05/18 10:12:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "Alexia Kyriakopoulou", 
+        "date": "09/05/18 10:24:00 "
+    }, 
+    {
+        "project": "Open Kinetics", 
+        "person": "Nate Padgett", 
+        "date": "09/05/18 10:36:00 "
+    }, 
+    {
+        "project": "Semper Simul", 
+        "person": "Ji Young Chun", 
+        "date": "09/05/18 10:48:00 "
+    }, 
+    {
+        "project": "Commodity Fetishism", 
+        "person": "Miao Tian", 
+        "date": "09/05/18 11:00:00 "
+    }, 
+    {
+        "project": "Beachcomber", 
+        "person": "Laura Kerry", 
+        "date": "09/05/18 11:12:00 "
+    }, 
+    {
+        "project": "Heart Health", 
+        "person": "Ran Tian", 
+        "date": "09/05/18 11:24:00 "
+    }, 
+    {
+        "project": "Responsibly.me", 
+        "person": "Jeff Park", 
+        "date": "09/05/18 11:36:00 "
+    }, 
+    {
+        "project": "The Personal Panopticon", 
+        "person": "Rita Cheng", 
+        "date": "09/05/18 11:48:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "LUNCH", 
+        "date": "09/05/18 12:00:00 "
+    }, 
+    {
+        "project": "Guidr", 
+        "person": "Woo Hyun (Dani) Kim", 
+        "date": "09/05/18 13:00:00 "
+    }, 
+    {
+        "project": "Runway", 
+        "person": "Cristobal Valenzuela", 
+        "date": "09/05/18 13:12:00 "
+    }, 
+    {
+        "project": "DING: Intuitive Comm Tool for Grandma", 
+        "person": "Manning Qu", 
+        "date": "09/05/18 13:24:00 "
+    }, 
+    {
+        "project": "The Future of Comics", 
+        "person": "Diego Cruz Castillo", 
+        "date": "09/05/18 13:36:00 "
+    }, 
+    {
+        "project": "MoleculAR: interactive chemistry kit", 
+        "person": "Swapna Joshi", 
+        "date": "09/05/18 13:48:00 "
+    }, 
+    {
+        "project": "MLTK: Machine Listening Toolkit", 
+        "person": "Michael Simpson", 
+        "date": "09/05/18 14:00:00 "
+    }, 
+    {
+        "project": "PathIndoor", 
+        "person": "Lin Yang", 
+        "date": "09/05/18 14:12:00 "
+    }, 
+    {
+        "project": "The Quirk Bot Experiment", 
+        "person": "Nitish Wakalkar", 
+        "date": "09/05/18 14:24:00 "
+    }, 
+    {
+        "project": "Archetype", 
+        "person": "Alejandro Matamala", 
+        "date": "09/05/18 14:36:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "BREAK", 
+        "date": "09/05/18 14:48:00 "
+    }, 
+    {
+        "project": "Nouf.io", 
+        "person": "Nouf Aljowaysir", 
+        "date": "09/05/18 15:00:00 "
+    }, 
+    {
+        "project": "textARt", 
+        "person": "Jinhee Ahn", 
+        "date": "09/05/18 15:12:00 "
+    }, 
+    {
+        "project": ".5 Square Meter Land of My Hometown", 
+        "person": "Yanlin Ma", 
+        "date": "09/05/18 15:24:00 "
+    }, 
+    {
+        "project": "Mtindo", 
+        "person": "Koji Kanao", 
+        "date": "09/05/18 15:36:00 "
+    }, 
+    {
+        "project": "BrowseBetter", 
+        "person": "Steven Simon", 
+        "date": "09/05/18 15:48:00 "
+    }, 
+    {
+        "project": "active.ly", 
+        "person": "Pan Pan", 
+        "date": "09/05/18 16:00:00 "
+    }, 
+    {
+        "project": "Spotter", 
+        "person": "Jacquelyn Zen", 
+        "date": "09/05/18 16:12:00 "
+    }, 
+    {
+        "project": "At Home", 
+        "person": "Ellen Kim", 
+        "date": "09/05/18 16:24:00 "
+    }, 
+    {
+        "project": "Decrypt.Ed", 
+        "person": "Patrick Presto", 
+        "date": "09/05/18 16:36:00 "
+    }, 
+    {
+        "project": "Inventing America", 
+        "person": "Roi Lev", 
+        "date": "10/05/18 10:12:00 "
+    }, 
+    {
+        "project": "Synesthesia", 
+        "person": "Kyung A Na", 
+        "date": "10/05/18 10:24:00 "
+    }, 
+    {
+        "project": "Droplet: an AR Experience Design System", 
+        "person": "Hayeon Kim", 
+        "date": "10/05/18 10:36:00 "
+    }, 
+    {
+        "project": "See the Ball", 
+        "person": "Alex Fast", 
+        "date": "10/05/18 10:48:00 "
+    }, 
+    {
+        "project": "Customizing Reality: Immersive Painting", 
+        "person": "Richard Lapham", 
+        "date": "10/05/18 11:00:00 "
+    }, 
+    {
+        "project": "Xiangrui: Patterns at the Palace Museum", 
+        "person": "Jixuan Sun", 
+        "date": "10/05/18 11:12:00 "
+    }, 
+    {
+        "project": "IMVII", 
+        "person": "Brandon Kader", 
+        "date": "10/05/18 11:24:00 "
+    }, 
+    {
+        "project": "Iso-principle in the Digital World", 
+        "person": "Li-Chung Chen", 
+        "date": "10/05/18 11:36:00 "
+    }, 
+    {
+        "project": "lligam", 
+        "person": "Grau Puche Recarens", 
+        "date": "10/05/18 11:48:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "LUNCH", 
+        "date": "10/05/18 12:00:00 "
+    }, 
+    {
+        "project": "Touch at a Distance", 
+        "person": "Michael Kripchak", 
+        "date": "10/05/18 13:00:00 "
+    }, 
+    {
+        "project": "PoolBuddy", 
+        "person": "Dimosthenis Markopoulos", 
+        "date": "10/05/18 13:12:00 "
+    }, 
+    {
+        "project": "Gold Hunter", 
+        "person": "Yuhan Zhang", 
+        "date": "10/05/18 13:24:00 "
+    }, 
+    {
+        "project": "OJO ORO Neo-retro Experimental Cameras", 
+        "person": "Ari Melenciano", 
+        "date": "10/05/18 13:36:00 "
+    }, 
+    {
+        "project": "Intangible Canvas", 
+        "person": "Jina Jung", 
+        "date": "10/05/18 13:48:00 "
+    }, 
+    {
+        "project": "The World of Reverie", 
+        "person": "Younho Lee", 
+        "date": "10/05/18 14:00:00 "
+    }, 
+    {
+        "project": "AWall", 
+        "person": "Katherine Takacs", 
+        "date": "10/05/18 14:12:00 "
+    }, 
+    {
+        "project": "Ephemeral", 
+        "person": "Chloe Gao", 
+        "date": "10/05/18 14:24:00 "
+    }, 
+    {
+        "project": "Awkward Thanksgiving", 
+        "person": "Jenny Lim", 
+        "date": "10/05/18 14:36:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "BREAK", 
+        "date": "10/05/18 14:48:00 "
+    }, 
+    {
+        "project": "Pack Your Things and Go", 
+        "person": "Lindsey Piscitell", 
+        "date": "10/05/18 15:00:00 "
+    }, 
+    {
+        "project": "Google-Qt", 
+        "person": "Yuan Chen", 
+        "date": "10/05/18 15:12:00 "
+    }, 
+    {
+        "project": "Self Pool", 
+        "person": "Yutong (Carlie) Zhang", 
+        "date": "10/05/18 15:24:00 "
+    }, 
+    {
+        "project": "Mindful Technology: Aduri", 
+        "person": "Jesal Trivedi", 
+        "date": "10/05/18 15:36:00 "
+    }, 
+    {
+        "project": "I'm With Mr. Zhou", 
+        "person": "Jingru Yin", 
+        "date": "10/05/18 15:48:00 "
+    }, 
+    {
+        "project": "Metron Busker", 
+        "person": "Wenqi Li", 
+        "date": "10/05/18 16:00:00 "
+    }, 
+    {
+        "project": "Curiosity Algorithm", 
+        "person": "Daniella Garcia", 
+        "date": "10/05/18 16:12:00 "
+    }, 
+    {
+        "project": "Erteki: Storytelling by Children", 
+        "person": "Akmyrat Tuyliyev", 
+        "date": "10/05/18 16:24:00 "
+    }, 
+    {
+        "project": "DeepTalking", 
+        "person": "Tiri Kananuruk", 
+        "date": "10/05/18 16:36:00 "
+    }, 
+    {
+        "project": "Internet of T%u0336h%u0336i%u0336n%u0336g%u0336s%u0336 Humans (IoH)", 
+        "person": "Mithru Swarna", 
+        "date": "11/05/18 10:00:00 "
+    }, 
+    {
+        "project": "Beast of Burden", 
+        "person": "David Temchulla", 
+        "date": "11/05/18 10:12:00 "
+    }, 
+    {
+        "project": "(Dis)connect", 
+        "person": "Wooraya (Mint) Boonyapanachoti", 
+        "date": "11/05/18 10:24:00 "
+    }, 
+    {
+        "project": "Memoria", 
+        "person": "Se Young Kim", 
+        "date": "11/05/18 10:36:00 "
+    }, 
+    {
+        "project": "Feeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee", 
+        "person": "Philip McCausland", 
+        "date": "11/05/18 10:48:00 "
+    }, 
+    {
+        "project": "100 Days of News", 
+        "person": "Anne-Michelle Gallero", 
+        "date": "11/05/18 11:00:00 "
+    }, 
+    {
+        "project": "The Crossings %u6E21", 
+        "person": "Siman Li", 
+        "date": "11/05/18 11:12:00 "
+    }, 
+    {
+        "project": "Epoche", 
+        "person": "Regina S. Cant\u00fa de Alba", 
+        "date": "11/05/18 11:24:00 "
+    }, 
+    {
+        "project": "Expressive Tactile Controls", 
+        "person": "Hayley Hwang", 
+        "date": "11/05/18 11:36:00 "
+    }, 
+    {
+        "project": "Volume", 
+        "person": "Or Fleisher", 
+        "date": "11/05/18 11:48:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "LUNCH", 
+        "date": "11/05/18 12:00:00 "
+    }, 
+    {
+        "project": "The Quantum Carnival", 
+        "person": "Kar Rosen", 
+        "date": "11/05/18 13:00:00 "
+    }, 
+    {
+        "project": "A Fresh View", 
+        "person": "Ariana Vassilopoulou", 
+        "date": "11/05/18 13:12:00 "
+    }, 
+    {
+        "project": "Portraits of Evanston", 
+        "person": "Alexander Zimmer", 
+        "date": "11/05/18 13:24:00 "
+    }, 
+    {
+        "project": "Mindfulness Over Matter", 
+        "person": "Sean Kim", 
+        "date": "11/05/18 13:36:00 "
+    }, 
+    {
+        "project": "Onda: Data Portraits for Period Health", 
+        "person": "Maria del Pilar Gomez Ruiz", 
+        "date": "11/05/18 13:48:00 "
+    }, 
+    {
+        "project": "Odyssey", 
+        "person": "Sharif al-Hadidi", 
+        "date": "11/05/18 14:00:00 "
+    }, 
+    {
+        "project": "Jamais Vu", 
+        "person": "Danni Huang", 
+        "date": "11/05/18 14:12:00 "
+    }, 
+    {
+        "project": "Intimate Patterns", 
+        "person": "Najat Dimachki", 
+        "date": "11/05/18 14:24:00 "
+    }, 
+    {
+        "project": "Nigga Inventions", 
+        "person": "Jaycee Holmes", 
+        "date": "11/05/18 14:36:00 "
+    }, 
+    {
+        "project": "", 
+        "person": "BREAK", 
+        "date": "11/05/18 14:48:00 "
+    }, 
+    {
+        "project": "NewChat: All the News That's Fit to Chat", 
+        "person": "Shivanku Kumar", 
+        "date": "11/05/18 15:00:00 "
+    }, 
+    {
+        "project": "Honeybee Training Academy", 
+        "person": "Melissa Parker", 
+        "date": "11/05/18 15:12:00 "
+    }, 
+    {
+        "project": "Vuja De", 
+        "person": "Yuqiao Qin", 
+        "date": "11/05/18 15:24:00 "
+    }, 
+    {
+        "project": "It will be perfect from now on", 
+        "person": "Ziyu He", 
+        "date": "11/05/18 15:36:00 "
+    }, 
+    {
+        "project": "Spectrum", 
+        "person": "Jarrett Slavin", 
+        "date": "11/05/18 15:48:00 "
+    }, 
+    {
+        "project": "everything must go ( %u2026 )", 
+        "person": "Sejo Vega-Cebrian", 
+        "date": "11/05/18 16:00:00 "
+    }, 
+    {
+        "project": "Wikibabel", 
+        "person": "Zach Coble", 
+        "date": "11/05/18 16:12:00 "
+    }, 
+    {
+        "project": "Sybil Society", 
+        "person": "Anastasis Germanidis", 
+        "date": "11/05/18 16:24:00 "
+    }, 
+    {
+        "project": "Invisible Sculptures", 
+        "person": "Yeseul Song", 
+        "date": "11/05/18 16:36:00 "
+    }, 
+    {
+        "project": "How Thrilling", 
+        "person": "Stephanie Koltun", 
+        "date": "11/05/18 16:48:00 "
+    }
+]
